@@ -1,6 +1,6 @@
-<!-- 🌈 Elegant Wide Banner -->
+<!-- 🌈 Elegant Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Indri%20Fazliji%20|%20Full-Stack%20Developer&fontAlignY=38&fontAlign=50&color=0:0A3D62,100:38ADA9&fontColor=ffffff&fontSize=40&desc=React%20•%20Node.js%20•%20Python%20•%20Next.js&descAlignY=60&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Indri%20Fazliji%20|%20Full-Stack%20Developer&fontAlignY=38&fontAlign=50&color=0:0A3D62,100:38ADA9&fontColor=ffffff&fontSize=40&desc=React%20•%20Next.js%20•%20Node.js%20•%20Python%20•%20Django&descAlignY=60&descSize=20&animation=fadeIn" />
 </p>
 
 ---
@@ -8,20 +8,39 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I'm a <strong>Full-Stack Developer</strong> from <strong>Skopje, North Macedonia</strong>, passionate about crafting fast, elegant, and user-focused digital experiences.<br>
-I specialize in <strong>React, Next.js, Node.js,</strong> and <strong>Django</strong>, with a focus on clean architecture and maintainable code.
+I’m <strong>Indri Fazliji</strong>, a <strong>Full-Stack Developer</strong> based in <strong>Skopje, North Macedonia</strong>.<br>
+I build fast, modern, and scalable web applications with a focus on <strong>clean architecture</strong> and <strong>great user experience</strong>.<br>
+I love working across the full stack — from frontend design to backend logic and cloud deployment.
+</p>
+
+<p align="center">
+💡 Passionate about creating seamless user interfaces and efficient server systems.<br>
+🧠 Currently exploring <strong>Vue.js</strong>, <strong>Nuxt</strong>, and <strong>Machine Learning</strong> integration for intelligent applications.<br>
+🚀 Always learning and pushing boundaries with <strong>TypeScript</strong>, <strong>Docker</strong>, and <strong>DevOps</strong> tools.
 </p>
 
 ---
 
-<h2 align="center">🚀 What I'm Working On</h2>
+<h2 align="center">🎯 Focus Areas</h2>
 
 <p align="center">
-  💼 <strong>Portfolio Website</strong> — A Next.js + Tailwind project showcasing my professional work and case studies.<br>
-  ⚙️ <strong>Full-Stack Starter Kit</strong> — Reusable boilerplate integrating React, Node.js, and JWT authentication.<br>
-  🧠 <strong>Automation Utilities</strong> — Small Python-based tools for API orchestration and task automation.<br>
-  🧩 <strong>UI Component Library</strong> — A collection of modern, reusable UI elements built with React + Tailwind.<br>
-  🌱 <strong>Learning & Growth</strong> — Improving skills in <strong>TypeScript, Docker, DevOps, and Cloud Architecture.</strong><br>
+• Full-Stack Web Development (React, Next.js, Node.js)<br>
+• API Design & Scalable Backend Systems (Express, Django)<br>
+• UI/UX Architecture & Reusable Frontend Components (React, Tailwind)<br>
+• DevOps & Cloud Infrastructure (Docker, AWS, CI/CD)<br>
+• Intelligent Systems & Automation (Python, ML)<br>
+• Currently exploring <strong>Vue.js</strong> & <strong>Nuxt</strong> to expand my frontend ecosystem knowledge<br>
+</p>
+
+---
+
+<h2 align="center">🚀 What I’m Working On</h2>
+
+<p align="center">
+💼 <strong>Portfolio Website</strong> — A Next.js + Tailwind portfolio highlighting my projects and skills.<br>
+⚙️ <strong>Full-Stack Starter Kit</strong> — Reusable boilerplate integrating React, Node.js, and JWT authentication.<br>
+🧩 <strong>Component Library</strong> — A set of modular, reusable UI elements for both React & Vue.<br>
+🧠 <strong>ML Experiments</strong> — Exploring small-scale machine learning utilities using Python.<br>
 </p>
 
 ---
@@ -30,12 +49,17 @@ I specialize in <strong>React, Next.js, Node.js,</strong> and <strong>Django</st
 
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,js,ts,html,css" />
 </p>
 
 ### ⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
+</p>
+
+### 🧬 Machine Learning & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
 ### 🗄️ Databases & Cloud
